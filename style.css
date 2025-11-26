@@ -1,5 +1,19 @@
-html {
-    height: 100%;
-    width: 100%;
-  }
-  
+/* Fondo gris */
+body {
+    background-color: #f2f2f2;
+}
+
+/* Todos los h3 en verde */
+h3 {
+    color: green;
+}
+
+/* Clase azul para h3 */
+.azul {
+    color: blue;
+}
+
+/* Un h3 en rojo */
+.rojo {
+    color: red;
+}
